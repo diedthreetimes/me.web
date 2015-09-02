@@ -1,0 +1,19 @@
+* Text missing
+** extend-details
+** Automatic text type
+** About Me
+** More about me and my life
+* Images missing
+** backgorund
+** the wheel thing
+* convert twitter to instagram
+* add link to my CV
+* Uncomment Portfolio and turn into Projects/Pubs
+** alternatively, fix the white band thats left from hiding the portfolio
+* Re-minify css, and reference that instead
+* Future Ideas
+** Add google maps link
+** Build a *simple* version 
+** Rewrite send-mail.php to work with ruby | rails
+** Make my contact hours interface with skylocalti.me
+** Make the Text Type type faster
